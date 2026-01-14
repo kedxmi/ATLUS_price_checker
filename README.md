@@ -11,7 +11,7 @@
 
 ## Использование
 
-1. Install dependencies:
+1. Зависимости:
 
 ```bash
 pip install requests beautifulsoup4 lxml
